@@ -1,0 +1,25 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+#bodyy{
+  background-color: #f3f8f2;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#logo{
+  width: 7vw;
+  margin-bottom: 1px;
+}
+
+img{
+  width:  45vw; 
+  margin: 3vw;
+  margin-right: 5vw;
+}
+
+p{
+  margin-left: 20;
+  margin-top: 5vw !important;
+}
